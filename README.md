@@ -33,6 +33,3 @@ This repository implements an end-to-end, cloud-native data engineering solution
 
 ---
 
-## Quick Start
-
-### 1. Clone the repo
