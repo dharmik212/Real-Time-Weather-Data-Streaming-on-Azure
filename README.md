@@ -29,7 +29,7 @@ This repository implements an end-to-end, cloud-native data engineering solution
 
 ## 🏗Solution Architecture
 
-![Architecture Diagram](Architecture/ProjectArchitecture.png)
+![Architecture Diagram](Architecture/ProjectArchitechture.png)
 
 ---
 
